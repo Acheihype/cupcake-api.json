@@ -1,0 +1,109 @@
+{ "cupcakes": [
+  {
+  "nome": "Baunilha Prateada",
+  "categoria":"gourmet",
+  "descricao":"",
+  "img":"",
+  "preço": 29.9
+  },
+
+  {
+    "nome": "Cupcake de Algodão-Doce Estrelado",
+    "categoria":"gourmet temáticos",
+    "descricao":"Um doce Cupcake Algodão-Doce, decorado com brilho estelar, trazendo magia e sabor encantador.",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Brisa de Carvão Açucarado",
+    "categoria":"gourmet",
+    "descricao":"",
+    "img": "cupcake pixel.png",
+    "preço": 29.9
+  },
+  {
+    "nome": "Cupcake Jardim de Hortelã",
+    "categoria":"gourmet",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Banana split",
+    "categoria":"frutas",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Cupcake Delícia de Ébano",
+    "categoria":"frutas",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Melancia Fresca e Doce",
+    "categoria":"frutas",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Delícia de Limão Encantado",
+    "categoria":"frutas",
+    "descricao":"Um cupcake de limão decorado com encanto, estrelas açucaradas e sabor irresistível em cada mordida.",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Espresso Assombrado",
+    "categoria":"temáticos",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Magia Negra de Mirtilo",
+    "categoria":"frutas temáticos",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Cranberry Encantado",
+    "categoria":"frutas",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "temático do Brasil",
+    "categoria":"temáticos",
+    "descricao":"receita é incrivel por que o cupcake é igual os outros mas Brasil *-*",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Éclat de Ganache Trufado",
+    "categoria":"gourmet",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Delícia de Maracujá e Cardamomo",
+    "categoria":"frutas gourmet",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  },
+  {
+    "nome": "Creme de Açafrão e Mel",
+    "categoria":"gourmet",
+    "descricao":"",
+    "img":"",
+    "preço": 29.9
+  }
+]
+}
