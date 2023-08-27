@@ -18,7 +18,7 @@
     "nome": "Brisa de Carvão Açucarado",
     "categoria":"gourmet",
     "descricao":"",
-    "img": "cupcake pixel.png",
+    "img": "img/cupcake pixel.png",
     "preço": 29.9
   },
   {
@@ -81,7 +81,7 @@
     "nome": "temático do Brasil",
     "categoria":"temáticos",
     "descricao":"receita é incrivel por que o cupcake é igual os outros mas Brasil *-*",
-    "img":"",
+    "img":"img/cupcake brasil.png",
     "preço": 29.9
   },
   {
