@@ -3,7 +3,7 @@
   "nome": "Baunilha Prateada",
   "categoria":"gourmet",
   "descricao":"Baunilha Prateada, doce sublime com toque metálico de encanto.",
-  "img":"img/cupcake-baunilha-prateada",
+  "img":"img/cupcake-baunilha-prateada.jpg",
   "preço": 29.9
   },
 
@@ -11,70 +11,70 @@
     "nome": "Cupcake de Algodão-Doce Estrelado",
     "categoria":"gourmet temáticos",
     "descricao":"Um doce Cupcake Algodão-Doce, decorado com brilho estelar, trazendo magia e sabor encantador.",
-    "img":"img/starry-cotton-candy-cupcake",
+    "img":"img/starry-cotton-candy-cupcake.jpg",
     "preço": 29.9
   },
   {
     "nome": "Brisa de Carvão Açucarado",
     "categoria":"gourmet",
     "descricao":"Cupcake Brisa de Carvão Açucarado, o equilíbrio perfeito entre carvão e doçura.",
-    "img": "img/sugarcoal-breeze-cupcake",
+    "img": "img/sugarcoal-breeze-cupcake.jpg",
     "preço": 29.9
   },
   {
     "nome": "Cupcake Jardim de Hortelã",
     "categoria":"gourmet",
     "descricao":"Jardim de Hortelã, uma explosão refrescante de hortelã que encanta os sentidos.",
-    "img":"img/one-peppermint-garden-cupcake",
+    "img":"img/one-peppermint-garden-cupcake.jpg",
     "preço": 29.9
   },
   {
     "nome": "Banana split",
     "categoria":"frutas",
     "descricao":"Banana Split, um cupcake que celebra a indulgência da famosa sobremesa.",
-    "img":"img/one-cupcake-banana-split",
+    "img":"img/one-cupcake-banana-split.jpg",
     "preço": 29.9
   },
   {
     "nome": "Cupcake Delícia de Ébano",
     "categoria":"frutas",
     "descricao":"Cupcake Delícia de Ébano, a irresistível combinação de riqueza e sabor.",
-    "img":"img/one-ebony-delight-cupcake",
+    "img":"img/one-ebony-delight-cupcake.jpg",
     "preço": 29.9
   },
   {
     "nome": "Melancia Fresca e Doce",
     "categoria":"frutas",
     "descricao":"Cupcake Melancia Fresca e Doce, a fusão perfeita entre verão e confeitaria.",
-    "img":"img/one-cupcake-fresh-and-sweet-watermelon",
+    "img":"img/one-cupcake-fresh-and-sweet-watermelon.jpg",
     "preço": 29.9
   },
   {
     "nome": "Delícia de Limão Encantado",
     "categoria":"frutas",
     "descricao":"Um cupcake de limão decorado com encanto, estrelas açucaradas e sabor irresistível em cada mordida.",
-    "img":"img/one-cupcake-enchanted-lemon-delight",
+    "img":"img/one-cupcake-enchanted-lemon-delight.jpg",
     "preço": 29.9
   },
   {
     "nome": "Espresso Assombrado",
     "categoria":"temáticos",
     "descricao":"Espresso Assombrado, um cupcake que liberta o sobrenatural com cada pedaço.",
-    "img":"img/one-cupcake-haunted-coffee-halloween-tematic",
+    "img":"img/one-cupcake-haunted-coffee-halloween-tematic.jpg",
     "preço": 29.9
   },
   {
     "nome": "Magia Negra de Mirtilo",
     "categoria":"frutas temáticos",
     "descricao":"Magia Negra, um cupcake que traz o fruto do terror e encantamento.",
-    "img":"img/one-cupcake-blueberry-black-magic",
+    "img":"img/one-cupcake-blueberry-black-magic.jpg",
     "preço": 29.9
   },
   {
     "nome": "Cranberry Encantado",
     "categoria":"frutas",
     "descricao":"Cranberry Encantado, um cupcake que tece a magia dos cranberries em uma experiência única.",
-    "img":"img/one-cupcake-enchanted-cranberry",
+    "img":"img/one-cupcake-enchanted-cranberry.jpg",
     "preço": 29.9
   },
   {
@@ -88,21 +88,21 @@
     "nome": "Éclat de Ganache Trufado",
     "categoria":"gourmet",
     "descricao":"Éclat de Ganache Trufado, um cupcake que desencadeia uma explosão de prazer.",
-    "img":"img/one-cupcake-truffled-ganache-eclat",
+    "img":"img/one-cupcake-truffled-ganache-eclat.jpg",
     "preço": 29.9
   },
   {
     "nome": "Delícia de Maracujá e Cardamomo",
     "categoria":"frutas gourmet",
     "descricao":"Delícia de Maracujá e Cardamomo, um cupcake que traz o frescor tropical e a elegância do cardamomo.",
-    "img":"img/one-cupcake-passion-fruit-and-cardamom-delight",
+    "img":"img/one-cupcake-passion-fruit-and-cardamom-delight.jpg",
     "preço": 29.9
   },
   {
     "nome": "Creme de Açafrão e Mel",
     "categoria":"gourmet",
     "descricao":"Cupcake Creme de Açafrão e Mel, um deleite que transcende sabores em ouro líquido.",
-    "img":"img/one-cupcake-saffron-and-honey-cream",
+    "img":"img/one-cupcake-saffron-and-honey-cream.jpg",
     "preço": 29.9
   }
 ]
