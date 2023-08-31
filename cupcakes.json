@@ -1,4 +1,4 @@
-{ "cupcakes": [
+[
   {
   "nome": "Baunilha Prateada",
   "categoria":"gourmet",
@@ -9,7 +9,7 @@
 
   {
     "nome": "Cupcake de Algodão-Doce Estrelado",
-    "categoria":"gourmet temáticos",
+    "categoria":"gourmet tematicos",
     "descricao":"Um doce Cupcake Algodão-Doce, decorado com brilho estelar, trazendo magia e sabor encantador.",
     "img":"img/starry-cotton-candy-cupcake.jpg",
     "preço": 29.9
@@ -58,14 +58,14 @@
   },
   {
     "nome": "Espresso Assombrado",
-    "categoria":"temáticos",
+    "categoria":"tematicos",
     "descricao":"Espresso Assombrado, um cupcake que liberta o sobrenatural com cada pedaço.",
     "img":"img/one-cupcake-haunted-coffee-halloween-tematic.jpg",
     "preço": 29.9
   },
   {
     "nome": "Magia Negra de Mirtilo",
-    "categoria":"frutas temáticos",
+    "categoria":"frutas tematicos",
     "descricao":"Magia Negra, um cupcake que traz o fruto do terror e encantamento.",
     "img":"img/one-cupcake-blueberry-black-magic.jpg",
     "preço": 29.9
@@ -79,7 +79,7 @@
   },
   {
     "nome": "temático do Brasil",
-    "categoria":"temáticos",
+    "categoria":"tematicos",
     "descricao":"essa receita é incrivel por que o cupcake é igual os outros mas Brasil *-*",
     "img":"img/cupcake brasil.png",
     "preço": 29.9
@@ -106,4 +106,4 @@
     "preço": 29.9
   }
 ]
-}
+
