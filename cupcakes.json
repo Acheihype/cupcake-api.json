@@ -2,7 +2,7 @@
   {
   "nome": "Baunilha Prateada",
   "categoria":"gourmet",
-  "descricao":"Baunilha Prateada, doce sublime com toque metálico de encanto.",
+  "descricao":"Baunilha Prateadaa, doce sublime com toque metálico de encanto.",
   "img":"img/cupcake-baunilha-prateada.jpg",
   "preço": 29.9
   },
@@ -75,7 +75,10 @@
     "categoria":"frutas",
     "descricao":"Cranberry Encantado, um cupcake que tece a magia dos cranberries em uma experiência única.",
     "img":"img/one-cupcake-enchanted-cranberry.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto-destaque": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto-destaque": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "temático do Brasil",
