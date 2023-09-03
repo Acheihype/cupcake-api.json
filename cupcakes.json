@@ -76,8 +76,8 @@
     "descricao":"Cranberry Encantado, um cupcake que tece a magia dos cranberries em uma experiência única.",
     "img":"img/one-cupcake-enchanted-cranberry.jpg",
     "preço": 29.9,
-    "texto-destaque": "Delícia Vermelha que Encanta os Sentidos!",
-    "subtexto-destaque": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
     "cor": "rgb(255, 182, 193)"
   },
   {
