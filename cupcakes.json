@@ -7,7 +7,7 @@
   "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#768589"
   },
 
   {
@@ -18,7 +18,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#BAF099"
   },
   {
     "nome": "Brisa de Carvão Açucarado",
@@ -28,7 +28,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#DB91EF"
   },
   {
     "nome": "Cupcake Jardim de Hortelã",
@@ -38,7 +38,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#F095C5"
   },
   {
     "nome": "Banana split",
@@ -48,7 +48,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#BEA5EF"
   },
   {
     "nome": "Cupcake Delícia de Ébano",
@@ -58,7 +58,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#B0A0F0"
   },
   {
     "nome": "Melancia Fresca e Doce",
@@ -68,7 +68,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "7EFFB7"
   },
   {
     "nome": "Delícia de Limão Encantado",
@@ -78,7 +78,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#ABA502"
   },
   {
     "nome": "Espresso Assombrado",
@@ -88,7 +88,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#9D85DE"
   },
   {
     "nome": "Magia Negra de Mirtilo",
@@ -98,7 +98,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#9E9D4A"
   },
   {
     "nome": "Cranberry Encantado",
@@ -108,7 +108,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#79D667"
   },
   {
     "nome": "temático do Brasil",
@@ -118,7 +118,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#CAA2F9"
   },
   {
     "nome": "Éclat de Ganache Trufado",
@@ -128,7 +128,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#AD49F2"
   },
   {
     "nome": "Delícia de Maracujá e Cardamomo",
@@ -138,7 +138,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#7525F5"
   },
   {
     "nome": "Creme de Açafrão e Mel",
@@ -148,7 +148,7 @@
     "preço": 29.9,
     "texto": "Delícia Vermelha que Encanta os Sentidos!",
     "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
-    "cor": "rgb(255, 182, 193)"
+    "cor": "#FF88EF"
   }
 ]
 
