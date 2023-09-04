@@ -4,7 +4,10 @@
   "categoria":"gourmet",
   "descricao":"Baunilha Prateadaa, doce sublime com toque metálico de encanto.",
   "img":"img/cupcake-baunilha-prateada.jpg",
-  "preço": 29.9
+  "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
 
   {
@@ -12,63 +15,90 @@
     "categoria":"gourmet tematicos",
     "descricao":"Um doce Cupcake Algodão-Doce, decorado com brilho estelar, trazendo magia e sabor encantador.",
     "img":"img/starry-cotton-candy-cupcake.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Brisa de Carvão Açucarado",
     "categoria":"gourmet",
     "descricao":"Cupcake Brisa de Carvão Açucarado, o equilíbrio perfeito entre carvão e doçura.",
     "img": "img/sugarcoal-breeze-cupcake.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Cupcake Jardim de Hortelã",
     "categoria":"gourmet",
     "descricao":"Jardim de Hortelã, uma explosão refrescante de hortelã que encanta os sentidos.",
     "img":"img/one-peppermint-garden-cupcake.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Banana split",
     "categoria":"frutas",
     "descricao":"Banana Split, um cupcake que celebra a indulgência da famosa sobremesa.",
     "img":"img/one-cupcake-banana-split.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Cupcake Delícia de Ébano",
     "categoria":"frutas",
     "descricao":"Cupcake Delícia de Ébano, a irresistível combinação de riqueza e sabor.",
     "img":"img/one-ebony-delight-cupcake.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Melancia Fresca e Doce",
     "categoria":"frutas",
     "descricao":"Cupcake Melancia Fresca e Doce, a fusão perfeita entre verão e confeitaria.",
     "img":"img/one-cupcake-fresh-and-sweet-watermelon.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Delícia de Limão Encantado",
     "categoria":"frutas",
     "descricao":"Um cupcake de limão decorado com encanto, estrelas açucaradas e sabor irresistível em cada mordida.",
     "img":"img/one-cupcake-enchanted-lemon-delight.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Espresso Assombrado",
     "categoria":"tematicos",
     "descricao":"Espresso Assombrado, um cupcake que liberta o sobrenatural com cada pedaço.",
     "img":"img/one-cupcake-haunted-coffee-halloween-tematic.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Magia Negra de Mirtilo",
     "categoria":"frutas tematicos",
     "descricao":"Magia Negra, um cupcake que traz o fruto do terror e encantamento.",
     "img":"img/one-cupcake-blueberry-black-magic.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Cranberry Encantado",
@@ -85,28 +115,40 @@
     "categoria":"tematicos",
     "descricao":"essa receita é incrivel por que o cupcake é igual os outros mas Brasil *-*",
     "img":"img/cupcake brasil.png",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Éclat de Ganache Trufado",
     "categoria":"gourmet",
     "descricao":"Éclat de Ganache Trufado, um cupcake que desencadeia uma explosão de prazer.",
     "img":"img/guilherme.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Delícia de Maracujá e Cardamomo",
     "categoria":"frutas gourmet",
     "descricao":"Delícia de Maracujá e Cardamomo, um cupcake que traz o frescor tropical e a elegância do cardamomo.",
     "img":"img/one-cupcake-passion-fruit-and-cardamom-delight.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   },
   {
     "nome": "Creme de Açafrão e Mel",
     "categoria":"gourmet",
     "descricao":"Cupcake Creme de Açafrão e Mel, um deleite que transcende sabores em ouro líquido.",
     "img":"img/one-cupcake-saffron-and-honey-cream.jpg",
-    "preço": 29.9
+    "preço": 29.9,
+    "texto": "Delícia Vermelha que Encanta os Sentidos!",
+    "subtexto": "Delicadeza de Cranberry e Doçura dos Sonhos em um Cupcake de Sabor Inigualável!",
+    "cor": "rgb(255, 182, 193)"
   }
 ]
 
